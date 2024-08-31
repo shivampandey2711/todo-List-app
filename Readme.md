@@ -22,7 +22,9 @@ git clone https://github.com/your-username/todo-app.git
 cd todo-app
 
  Backend Setup :-
-
+ 
+    // open new terminal
+    
 1. Navigate to the server directory:
 
     cd server
@@ -36,7 +38,7 @@ cd todo-app
     npm start
 
  Frontend Setup :-
-
+          // open new terminal
 1. Navigate to the client directory:
 
     cd client
